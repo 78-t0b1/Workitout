@@ -14,6 +14,8 @@ Dlib :- https://www.pyimagesearch.com/2017/03/27/how-to-install-dlib/
 Open CV2:- https://www.pyimagesearch.com/2016/10/24/ubuntu-16-04-how-to-install-opencv/
 
 
-# I provided everything regarding this project but if you just want to use this as an app there is an .exe file just run that 
+# I provided everything regarding this project but if you just want to use this as an app there is an .exe file on 
+https://drive.google.com/drive/folders/1YAPxZ6VpUi7MjD5E0NOsrVYMPt5pMKR_?usp=sharing 
+# Download the folder and run exicutable file.
 
 
